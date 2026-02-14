@@ -1,0 +1,6 @@
+Sākums. Pārbauda vai ir maize. Ja jā, tad var turpināt. Ja nav, tad maize ir jānopērk.
+Pārbauda vai ir sviests. Ja jā, tad var turpināt. Ja nav, tad sviests ir jānopērk.
+Pārbauda vai ir citas sastāvdaļas. Ja jā, tad var turpināt. Ja nav, tad citas sastāvdaļas ir jānopērk.
+Jāsagriež maize
+Jāuzliek sviests
+Jāsagriež un jāuzliek sastāvdaļas

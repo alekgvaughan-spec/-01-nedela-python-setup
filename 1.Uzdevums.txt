@@ -1,0 +1,18 @@
+Pieslēgšanās e-pastam. Sākumā nepieciešams ieslēgt datoru. Jāatrod uz datora epasta programma. Tā jāatver. Jāievada lietotājvārds, parole un jāieiet savā kontā.
+1.Ieslēgt datoru
+2.Atrast e-pasta programma
+3.Atvērt e-pasta programmu
+4.Ievadīt lietotājvārdu
+5.Ievadīt paroli
+6.Sākt darbu ar e-pastiem.
+
+Kafijas iegāde. Jāsaprot, kur kafiju pārdod. Jāsaģērbjas un jādodas uz veikalu. Veikalā nepieciešams atrast pareizo veikala nodaļu. Jāsalīdzina pieedāvājums un jāizvēlas izdevīgākais variants.
+Jāieliek kafija groziņā un jādodās uz kasi. Jāsamaksā par izvēlēto produktu.
+1.Saprast, kur var iegādāties kafiju
+2.Saģērbties
+3.Doties uz veikalu
+4.Atrast pareizo nodaļu
+5.Salīdzināt pieejamo piedāvājumu
+6.Izvēlēties produktu
+7.Ielikt kafiju groziņā un doties uz kasi
+8.Samaksāt par produktu.
